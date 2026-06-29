@@ -6,6 +6,8 @@ Crater is an open-source web & mobile app that helps you track expenses, payment
 
 Web Application is made using Laravel & VueJS while the Mobile Apps are built using React Native.
 
+> **Berani fork:** See [CHANGES_SUMMARY.md](CHANGES_SUMMARY.md) for a detailed breakdown of all modifications from the original Crater project — grouped by contributor with dates, commits, and file lists.
+
 # Installation
 
 ## Prerequisites
